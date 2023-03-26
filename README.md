@@ -1,7 +1,9 @@
 # GAZE-POINTER
-Our project the ‘Gaze Pointer’ is an application that will be very helpful to ‘Amputees’ in controlling the mouse by using just the eye gestures and facial expressions. The benefits of using our project are as follows:
-•	Easier computer control.
+Our project the ‘Gaze Pointer’ is an application that will be very helpful to ‘Amputees’ in controlling the mouse by using just the eye gestures and facial expressions. 
 
+The benefits of using our project are as follows:
+
+•	Easier computer control.
 
 •	Help disabled & handicapped people to use computer.
 
